@@ -9,6 +9,25 @@
 🎁 Challenge Amigo Secreto
 
 Un juego web interactivo para organizar un Amigo Secreto de forma divertida y digital. ¡Ideal para reuniones, fiestas o simplemente pasar un buen rato con amigos!
+## ⚙️ Funcionalidades
+
+Este proyecto incluye las siguientes funcionalidades:
+
+
+### ➕ Agregar nombres  
+Los usuarios pueden escribir el nombre de un amigo en un campo de texto y hacer clic en **"Adicionar"** para añadirlo a una lista visible.
+
+
+### ⚠️ Validar entrada  
+Si el campo de texto está vacío al intentar agregar un nombre, el programa mostrará una **alerta** solicitando que se ingrese un nombre válido.
+
+
+### 📃 Visualizar la lista  
+Cada nombre agregado se mostrará en una **lista visible** justo debajo del campo de entrada, permitiendo ver todos los participantes.
+
+
+### 🎲 Sorteo aleatorio  
+Al hacer clic en el botón **"Sortear Amigo"**, el sistema elegirá aleatoriamente un nombre de la lista y lo mostrará en pantalla.
 
 ---
 
