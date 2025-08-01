@@ -115,11 +115,3 @@ Si tienes Git instalado, abre una terminal y ejecuta:
 
 ```bash
 git clone https://github.com/Karla12-B/Challenge-AmigoSecreto.git
-
-![Vista previa del juego](./assets/demostration.png)
-
-
-
-
-
-
